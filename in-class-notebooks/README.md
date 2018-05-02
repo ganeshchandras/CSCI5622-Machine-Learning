@@ -20,11 +20,34 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [07_Feature_Engineering](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering_Solutions.ipynb)
 
-[08_Regression_Bias_Variance](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/08_Regression_Bias_Variance.ipynb)
+[08_Regression_Bias_Variance](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/08_Regression_Bias_Variance.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/08_Regression_Bias_Variance_Solutions.ipynb)
 
-[09_Regularization](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization.ipynb?flush=True)
+[09_Regularization](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization_Solutions.ipynb?flush=True)
+
+[10_PAC_Learnability](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/10_PAC_Learnability.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/10_PAC_Learnability_Solutions.ipynb?flush=True)
+
+[11_VC_Dimension](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/11_VC_Dimension.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/11_VC_Dimension_Solutions.ipynb?flush=True)
+
+[12_Hard_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/12_Hard_Margin_SVMs.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/12_Hard_Margin_SVMs_Solutions.ipynb?flush=True)
+
+[13_Soft_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/13_Soft_Margin_SVM.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/13_Soft_Margin_SVM_Solutions.ipynb?flush=True)
+
+[14_Kernel_Trick](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/14_Kernel_Trick.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/14_Kernel_Trick_Solutions.ipynb?flush=True)
+
+[17_Multilayer Perceptrons](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/17_Multilayer_Perceptrons.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/17_Multilayer_Perceptrons_Solutions.ipynb?flush=True)
+
+[18_Training Neural Networks](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/18_NN_Implementation.ipynb?flush=True)
+
+[19_CNNs with Keras](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/19_CNNs_with_Keras.ipynb?flush=True)
+
+[22_KMeans_and_GMMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/22_KMeans_and_GMMs.ipynb?flush=True)
+
+[23_Spectral_Clustering](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/23_Spectral_Clustering.ipynb?flush=True)
+
 
 <!---
+
+[17_Multilayer Perceptrons](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/17_Multilayer_perceptrons.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/14_Kernel_Trick_Solutions.ipynb?flush=True)
 
 , [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering_Solutions.ipynb)
 
